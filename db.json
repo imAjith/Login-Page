@@ -1,0 +1,114 @@
+{
+  "userdb": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "fullname": "AJITHKUMAR R",
+      "email": "imajith@protonmail.ch",
+      "mobile": "08056740571",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "fullname": "AK",
+      "email": "ak12@g.co",
+      "mobile": "1234567890",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "id": 6
+    },
+    {
+      "fullname": "sdfs",
+      "email": "sdf",
+      "mobile": "sdsf",
+      "password": "sdf",
+      "id": 7
+    },
+    {
+      "fullname": "fsef",
+      "email": "fsdf",
+      "mobile": "fsdf",
+      "password": "sdf",
+      "id": 8
+    },
+    {
+      "fullname": "fsef",
+      "email": "fsdf",
+      "mobile": "fsdf",
+      "password": "sdf",
+      "id": 9
+    },
+    {
+      "fullname": "qw",
+      "email": "qw",
+      "mobile": "qw",
+      "password": "qw",
+      "id": 10
+    },
+    {
+      "fullname": "qw",
+      "email": "qw",
+      "mobile": "qw",
+      "password": "qw",
+      "id": 11
+    },
+    {
+      "fullname": "as",
+      "email": "as",
+      "mobile": "as",
+      "password": "as",
+      "id": 12
+    },
+    {
+      "fullname": "as",
+      "email": "as",
+      "mobile": "as",
+      "password": "as",
+      "id": 13
+    },
+    {
+      "fullname": "12",
+      "email": "12",
+      "mobile": "12",
+      "password": "12",
+      "id": 14
+    },
+    {
+      "fullname": "12",
+      "email": "12",
+      "mobile": "12",
+      "password": "12",
+      "id": 15
+    },
+    {
+      "fullname": "12",
+      "email": "12",
+      "mobile": "12",
+      "password": "12",
+      "id": 16
+    }
+  ]
+}
